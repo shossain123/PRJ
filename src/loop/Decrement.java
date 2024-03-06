@@ -6,6 +6,7 @@ public class Decrement {
 		for(int i=25; i>=-3; i=i-1) {
 			
 			System.out.println(i);
+			System.out.println(i);
 		}
 
 	}

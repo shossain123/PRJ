@@ -8,6 +8,7 @@ public class Decrement {
 			System.out.println(i);
 			System.out.println(i);
 			System.out.println(i);
+			System.out.println(i);
 		}
 
 	}
